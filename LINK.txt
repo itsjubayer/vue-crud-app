@@ -1,0 +1,4 @@
+https://www.binaryboxtuts.com/vue-js-tutorials/how-to-develop-vue-js-crud-app-using-a-rest-api/
+https://www.binaryboxtuts.com/vue-js-tutorials/how-to-develop-vue-js-crud-app-using-a-rest-api/
+https://mock-api.binaryboxtuts.com/
+https://www.youtube.com/watch?v=ZKixg41e90o
